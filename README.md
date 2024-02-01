@@ -1,4 +1,4 @@
 # project.html
 This is my first repository.
 <br>
-Author- Rohit sharma
+Author- Rohit sharma (ducat)
